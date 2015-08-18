@@ -1,6 +1,7 @@
 # stopwatch
-A quick time profiling utility framework.
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
+A quick time profiling utility framework.
 ## What is stopwatch
 Sometimes you just want to have an idea of how long some code takes to execute, without firing up Instruments and using the time profiler.
 
